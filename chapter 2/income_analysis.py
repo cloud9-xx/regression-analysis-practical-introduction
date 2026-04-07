@@ -4,7 +4,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import r2_score
 
 # Load the income dataset
-df = pd.read_csv('data/income.csv')
+df = pd.read_csv('../data/income.csv')
 
 # Display first few rows
 print("Data Summary:")

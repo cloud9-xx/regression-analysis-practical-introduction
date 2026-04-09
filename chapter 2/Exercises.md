@@ -23,11 +23,10 @@ e. Using equations 2.6 and 2.7 creating model. Using 2.14 to compute $$R^2=1-\fr
 # 4
 No data available
 
-#5
+# 5
+
 We have created income_analysis.py
-==================================================
 SUMMARY: Which Variable Explains Most Variation?
-==================================================
 1. Education (educ): R² = 0.1655 (16.55%)
 2. AFQT (afqt): R² = 0.1501 (15.01%)
 3. Age: R² = 0.0027 (0.27%)
